@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: coral;
+    font-family: 'Roboto';
+    color: white;
+    background: url('../assets/images/doja.jpg');
+    background-size: cover;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.menu {
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-evenly;
+}
